@@ -1,0 +1,9 @@
+/*
+  X-Robots-Tag: noindex, nofollow
+  X-Frame-Options: DENY
+  Referrer-Policy: no-referrer
+  X-Content-Type-Options: nosniff
+  Strict-Transport-Security: max-age=31536000
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; frame-src https://calendar.google.com; connect-src 'self' https://ezfytxboshuxfuehyoxa.supabase.co; worker-src 'self'; manifest-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'
+  Cache-Control: no-store
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
